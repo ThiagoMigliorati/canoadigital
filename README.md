@@ -2,7 +2,7 @@
 
 ## projeto canoa digital
 
-## View
+### Instalação de Banco / API / View
 
 1 - o arquivo dump-node_api-202107071146.sql precisará ser rodado em seu banco de dados local
 
