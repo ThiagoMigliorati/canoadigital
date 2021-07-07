@@ -2,6 +2,8 @@
 
 ## projeto canoa digital
 
+![alt text](https://github.com/ThiagoMigliorati/canoadigital/blob/main/img.jpeg)
+
 ### Instalação de Banco / API / View
 
 1 - o arquivo dump-node_api-202107071146.sql precisará ser rodado em seu banco de dados local
